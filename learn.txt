@@ -1,0 +1,3 @@
+ home: "Home"
+      book_ror: "This is the home page for the %{link_ror} sample application."
+      link_text: "Ruby on Rails Tutorial"
